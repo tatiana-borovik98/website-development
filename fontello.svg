@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="print" unicode="&#xe800;" d="M214-7h500v143h-500v-143z m0 357h500v214h-89q-22 0-38 16t-16 38v89h-357v-357z m643-36q0 15-10 25t-26 11-25-11-10-25 10-25 25-10 26 10 10 25z m72 0v-232q0-7-6-12t-12-6h-125v-89q0-22-16-38t-38-16h-536q-22 0-37 16t-16 38v89h-125q-7 0-13 6t-5 12v232q0 44 32 76t75 31h36v304q0 22 16 38t37 16h375q23 0 50-12t42-26l85-85q15-16 27-43t11-49v-143h35q45 0 76-31t32-76z" horiz-adv-x="928.6" />
+
+<glyph glyph-name="retweet" unicode="&#xe801;" d="M714 11q0-7-5-13t-13-5h-535q-5 0-8 1t-5 4-3 4-2 7 0 6v335h-107q-15 0-25 11t-11 25q0 13 8 23l179 214q11 12 27 12t28-12l178-214q9-10 9-23 0-15-11-25t-25-11h-107v-214h321q9 0 14-6l89-108q4-5 4-11z m357 232q0-13-8-23l-178-214q-12-13-28-13t-27 13l-179 214q-8 10-8 23 0 14 11 25t25 11h107v214h-322q-9 0-14 7l-89 107q-4 5-4 11 0 7 5 12t13 6h536q4 0 7-1t5-4 3-5 2-6 1-7v-334h107q14 0 25-11t10-25z" horiz-adv-x="1071.4" />
+
+<glyph glyph-name="keyboard" unicode="&#xf11c;" d="M214 198v-53q0-9-9-9h-53q-9 0-9 9v53q0 9 9 9h53q9 0 9-9z m72 143v-53q0-9-9-9h-125q-9 0-9 9v53q0 9 9 9h125q9 0 9-9z m-72 143v-54q0-9-9-9h-53q-9 0-9 9v54q0 9 9 9h53q9 0 9-9z m572-286v-53q0-9-9-9h-482q-9 0-9 9v53q0 9 9 9h482q9 0 9-9z m-357 143v-53q0-9-9-9h-54q-9 0-9 9v53q0 9 9 9h54q9 0 9-9z m-72 143v-54q0-9-9-9h-53q-9 0-9 9v54q0 9 9 9h53q9 0 9-9z m214-143v-53q0-9-8-9h-54q-9 0-9 9v53q0 9 9 9h54q8 0 8-9z m-71 143v-54q0-9-9-9h-53q-9 0-9 9v54q0 9 9 9h53q9 0 9-9z m214-143v-53q0-9-9-9h-53q-9 0-9 9v53q0 9 9 9h53q9 0 9-9z m215-143v-53q0-9-9-9h-54q-9 0-9 9v53q0 9 9 9h54q9 0 9-9z m-286 286v-54q0-9-9-9h-54q-9 0-9 9v54q0 9 9 9h54q9 0 9-9z m143 0v-54q0-9-9-9h-54q-9 0-9 9v54q0 9 9 9h54q9 0 9-9z m143 0v-196q0-9-9-9h-125q-9 0-9 9v53q0 9 9 9h62v134q0 9 9 9h54q9 0 9-9z m71-420v500h-929v-500h929z m71 500v-500q0-29-20-50t-51-21h-929q-29 0-50 21t-21 50v500q0 30 21 51t50 21h929q30 0 51-21t20-51z" horiz-adv-x="1071.4" />
+</font>
+</defs>
+</svg>
